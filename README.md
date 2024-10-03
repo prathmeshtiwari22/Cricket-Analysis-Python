@@ -1,6 +1,4 @@
 
-
-```markdown
 # IPL Cricket Analysis Dashboard
 
 This project is a **Streamlit-based web application** that provides interactive visualizations and statistical insights into the Indian Premier League (IPL) using a dataset of player and match statistics. It allows users to analyze player performance, team statistics, match details, and identify the top performers in categories like best bowler and best all-rounder.
