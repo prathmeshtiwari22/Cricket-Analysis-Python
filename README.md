@@ -47,5 +47,5 @@ The dataset used in this project contains statistics of IPL players, teams, and 
 
 ## Screenshots
 
-![Player Stats Visualization](screenshot1.png)
+![Player Stats Visualization](Screenshot 2024-10-03 191402.png)
 ![Match Stats Visualization](screenshot2.png)
